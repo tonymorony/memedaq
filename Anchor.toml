@@ -1,0 +1,22 @@
+[toolchain]
+anchor_version = "0.31.1"
+
+[features]
+resolution = true
+skip-lint = false
+
+[programs.devnet]
+meme_index = "BKrYs7V1WMXEHYxr61FdUK9wHKrBqrzSzYmNRegts1mG"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+url = "https://devnet.helius-rpc.com"
+
+[scripts]
+build = "anchor build"
+deploy = "anchor deploy"
+test = "anchor test"

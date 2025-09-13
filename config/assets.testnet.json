@@ -1,0 +1,9 @@
+{
+	"assets": [
+		{ "symbol": "BONK", "mint": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263", "pythPrice": "" },
+		{ "symbol": "WIF", "mint": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm", "pythPrice": "" },
+		{ "symbol": "TRUMP", "mint": "HaP8r3ksG76PhQLTqR8FYBeNiQpejcFbQmiHbg787Ut1", "pythPrice": "" },
+		{ "symbol": "POPCAT", "mint": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr", "pythPrice": "" },
+		{ "symbol": "BOME", "mint": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82", "pythPrice": "" }
+	]
+}

@@ -1,0 +1,9 @@
+[workspace]
+members = [
+	"programs/meme_index",
+]
+resolver = "2"
+
+[profile.release]
+opt-level = "s"
+overflow-checks = true
